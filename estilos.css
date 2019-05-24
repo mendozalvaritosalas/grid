@@ -1,0 +1,17 @@
+body{
+    background-color: dimgray;
+}
+
+div{
+    display: flex;
+}
+
+.main-content{
+    margin: 40px;
+    padding: 40px;
+    text-align: center;
+}
+
+.filas{
+    flex-direction: row;
+}
